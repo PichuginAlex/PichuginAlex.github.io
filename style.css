@@ -1,0 +1,18 @@
+header {
+    text-align:center;
+    background-color:yellow;
+}
+
+
+.a {
+    text-align:left;
+}
+
+
+.b {
+    text-align:center;
+}
+
+.c {
+    text-align:right;
+}
